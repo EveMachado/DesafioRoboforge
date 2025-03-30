@@ -4,8 +4,17 @@ Repositório contendo as soluções para os desafios de programação de robóti
 
 ## 🛠️ Tecnologias Utilizadas
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![LEGO EV3 MicroPython](https://img.shields.io/badge/LEGO_EV3-FF0000?logo=lego&logoColor=white)](https://pybricks.com/ev3-micropython/)
 
-[![MicroPython](https://img.shields.io/badge/MicroPython-FFD43B?logo=micropython&logoColor=blue)](https://micropython.org/)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![LEGO EV3 MicroPython](https://img.shields.io/badge/LEGO%20EV3%20MicroPython-E2231A?style=for-the-badge&logo=lego&logoColor=white)
+
+- ----------
+## 🛠️ Tecnologias Utilizadas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lego/lego-original.svg" width="50" title="LEGO EV3"/>
+</p>
+

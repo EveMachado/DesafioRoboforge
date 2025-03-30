@@ -2,12 +2,28 @@
 
 Repositório contendo as soluções para os desafios de programação de robótica utilizando python. Desenvolvido como parte do processo seletivo para um projeto de extensão em robótica.
 
+
 ## 🛠️ Tecnologias Utilizadas
 
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![LEGO EV3 MicroPython](https://img.shields.io/badge/LEGO%20EV3%20MicroPython-E2231A?style=for-the-badge&logo=lego&logoColor=white)
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+  <!-- Python -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+    <p><strong>Python</strong></p>
+  </div>
+  
+  <!-- VS Code (Ícone destacado) -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" style="border-radius: 5px;"/>
+    <p><strong>VS Code</strong></p>
+  </div>
+  
+  <!-- LEGO EV3 -->
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lego/lego-original.svg" width="60" alt="LEGO EV3"/>
+    <p><strong>LEGO EV3</strong></p>
+  </div>
+</div>
 
 - ----------
 ## 🛠️ Tecnologias Utilizadas

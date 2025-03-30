@@ -1,7 +1,6 @@
 # Roboforge - Processo Seletivo
 
-Repositório contendo as soluções para os desafios de programação de robótica utilizando python. Desenvolvido como parte do processo seletivo para um projeto de extensão em robótica.
-
+Repositório contendo as soluções para os desafios de programação de robótica utilizando a extensão LEGO® MINDSTORMS® EV3 MicroPython nos desafios DS e DM. Desenvolvido como parte do processo seletivo para um projeto de extensão em robótica.
 
 ## 🛠️ Tecnologias Utilizadas
 

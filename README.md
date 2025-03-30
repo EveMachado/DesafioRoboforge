@@ -19,3 +19,10 @@ Repositório contendo as soluções para os desafios de programação de robóti
   </div>
 
 </div>
+--------------------------------------------
+## 🛠️ Tecnologias Utilizadas
+
+| Python | VS Code | LEGO EV3 MicroPython |
+|--------|--------|----------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lego_Mindstorms_EV3_brick.jpg/120px-Lego_Mindstorms_EV3_brick.jpg" width="50"> |
+| **Python** | **VS Code** | **LEGO EV3 MicroPython** |

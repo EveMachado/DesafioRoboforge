@@ -9,13 +9,13 @@ Repositório contendo as soluções para os desafios de programação de robóti
 
   <!-- Python -->
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
     <p style="margin-top: 8px;"><strong>Python</strong></p>
   </div>
 
   <!-- VS Code -->
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/>
     <p style="margin-top: 8px;"><strong>VS Code</strong></p>
   </div>
 

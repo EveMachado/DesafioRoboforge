@@ -8,29 +8,14 @@ Repositório contendo as soluções para os desafios de programação de robóti
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
   <!-- Python -->
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
     <p><strong>Python</strong></p>
   </div>
   
   <!-- VS Code (Ícone destacado) -->
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" style="border-radius: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code" style="border-radius: 5px;"/>
     <p><strong>VS Code</strong></p>
   </div>
   
-  <!-- LEGO EV3 -->
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lego/lego-original.svg" width="60" alt="LEGO EV3"/>
-    <p><strong>LEGO EV3</strong></p>
-  </div>
-</div>
-
-- ----------
-## 🛠️ Tecnologias Utilizadas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lego/lego-original.svg" width="50" title="LEGO EV3"/>
-</p>
 

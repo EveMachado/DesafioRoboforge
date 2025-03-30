@@ -5,14 +5,17 @@ Repositório contendo as soluções para os desafios de programação de robóti
 
 ## 🛠️ Tecnologias Utilizadas
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+<div style="display: flex; gap: 25px; align-items: flex-start; margin-top: 15px;">
+
   <!-- Python -->
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
+    <p style="margin-top: 8px;"><strong>Python</strong></p>
   </div>
-  
+
   <!-- VS Code -->
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
+    <p style="margin-top: 8px;"><strong>VS Code</strong></p>
   </div>
 
